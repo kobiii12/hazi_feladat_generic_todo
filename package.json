@@ -1,0 +1,25 @@
+{
+  "name": "hazi_feladat_generic_todo",
+  "version": "1.0.0",
+  "description": "Generikus Todo Lista Kezelő - Házi Feladat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kobiii12/hazi_feladat_generic_todo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kobiii12/hazi_feladat_generic_todo/issues"
+  },
+  "homepage": "https://github.com/kobiii12/hazi_feladat_generic_todo#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
